@@ -1,0 +1,16 @@
+{
+  "name": "asinc",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "async"
+  ],
+  "author": "Miguel Angel Luque",
+  "license": "MIT"
+}
