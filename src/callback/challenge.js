@@ -13,5 +13,5 @@ function fetchData(url_api, callback) {
             }
         }
     }
+    xhttp.send();
 }
-xhttp.send();
